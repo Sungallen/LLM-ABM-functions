@@ -1,0 +1,110 @@
+{
+  "building_category": {
+    "Accommodation": [
+      "apartments",
+      "barracks",
+      "bungalow",
+      "cabin",
+      "detached",
+      "dormitory",
+      "farm",
+      "ger",
+      "hotel",
+      "house",
+      "houseboat",
+      "residential",
+      "semidetached_house",
+      "static_caravan",
+      "stilt_house",
+      "terrace",
+      "tree_house",
+      "yes"
+    ],
+    "Commercial": [
+      "commercial",
+      "industrial",
+      "kiosk",
+      "office",
+      "retail",
+      "supermarket",
+      "warehouse"
+    ],
+    "Religious": [
+      "cathedral",
+      "chapel",
+      "church",
+      "kingdom_hall",
+      "monastery",
+      "mosque",
+      "presbytery",
+      "religious",
+      "shrine",
+      "synagogue",
+      "temple"
+    ],
+    "Amenity": [
+      "bakehouse",
+      "bridge",
+      "civic",
+      "college",
+      "fire_station",
+      "government",
+      "gatehouse",
+      "hospital",
+      "kindergarten",
+      "museum",
+      "public",
+      "school",
+      "toilets",
+      "train_station",
+      "transportation",
+      "university",
+      "static_railcar"
+    ],
+    "Agricultural": [
+      "barn",
+      "conservatory",
+      "cowshed",
+      "farm_auxiliary",
+      "greenhouse",
+      "slurry_tank",
+      "stable",
+      "sty",
+      "livestock"
+    ],
+    "Sports": [
+      "grandstand",
+      "pavilion",
+      "riding_hall",
+      "sports_hall",
+      "stadium",
+      "sports_centre"
+    ],
+    "Storage": ["carport", "garage", "garages", "parking", "boathouse"],
+    "Power": [
+      "digester",
+      "service",
+      "transformer_tower",
+      "water_tower",
+      "storage_tank",
+      "silo",
+      "water_works"
+    ],
+    "Other": [
+      "beach_hut",
+      "bunker",
+      "castle",
+      "construction",
+      "container",
+      "military",
+      "roof",
+      "ruins",
+      "tent",
+      "tower",
+      "no",
+      "shed",
+      "canopy",
+      ""
+    ]
+  }
+}
